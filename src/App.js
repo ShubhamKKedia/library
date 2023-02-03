@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import {uniqBy} from "lodash"
+import uniqBy from "lodash/uniqBy"
 
 function App() {
   return (
