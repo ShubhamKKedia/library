@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import * as messageType from "message-types"
 function App() {
   return (
     <div className="App">
