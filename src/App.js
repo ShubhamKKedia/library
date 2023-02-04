@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import lodash from "lodash.uniqby"
+import {TextMessage} from "message-types"
 function App() {
   return (
     <div className="App">
