@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import * as messageType from "message-types"
+import * as antddd from "antd"
 function App() {
   return (
     <div className="App">
