@@ -7,7 +7,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "antd": "^4.16.11",
-    "parcel-demo-library-sample": "^2.0.1",
+    "parcel-demo-library-sample": "^2.0.4",
     "prop-types": "^15.5.4",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
@@ -42,7 +42,6 @@
     ]
   },
   "devDependencies": {
-    "core-js": "^3.28.0",
     "source-map-explorer": "^2.5.3"
   }
 }
